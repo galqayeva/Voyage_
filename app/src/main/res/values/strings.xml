@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">V0YAGE</string>
+    <string name="facebook_app_id">925275720964672</string>
+    <string name="fb_login_protocol_scheme">fb925275720964672</string>
+
+    <string-array name="mtype">
+        <item>restaurant</item>
+        <item>food</item>
+        <item>lodging</item>
+        <item>store</item>
+        <item>point_of_interest</item>
+        <item>establishment</item>
+        <item>cafe</item>
+    </string-array>
+
+    <string-array name="mradius">
+        <item>1000</item>
+        <item>2000</item>
+        <item>3000</item>
+        <item>4000</item>
+        <item>5000</item>
+        <item>10000</item>
+        <item>15000</item>
+        <item>20000</item>
+        <item>25000</item>
+        <item>30000</item>
+        <item>40000</item>
+        <item>50000</item>
+
+
+    </string-array>
+
+    <string-array name="raidus">
+        <item>1k meters</item>
+        <item>2k meters</item>
+        <item>3k meters</item>
+        <item>4k meters</item>
+        <item>5k meters</item>
+        <item>10k meters</item>
+        <item>15k meters</item>
+        <item>20k meters</item>
+        <item>25k meters</item>
+        <item>30k meters</item>
+        <item>40k meters</item>
+        <item>50k meters</item>
+    </string-array>
+</resources>
